@@ -84,10 +84,3 @@ let studs = {
     }
 };
 
-let studds = {
-    js: {
-        name: 'John',
-        progress: 100
-}};
-
-git; CustomElementRegistry;
